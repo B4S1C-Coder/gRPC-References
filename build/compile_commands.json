@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/saksham/codebase/learning_grpc/server/build",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/saksham/codebase/learning_grpc/server/build -isystem /home/saksham/grpc_install_dir/include  -o CMakeFiles/protolib.dir/proto/hello.pb.cc.o -c /home/saksham/codebase/learning_grpc/server/build/proto/hello.pb.cc",
+  "file": "/home/saksham/codebase/learning_grpc/server/build/proto/hello.pb.cc",
+  "output": "CMakeFiles/protolib.dir/proto/hello.pb.cc.o"
+},
+{
+  "directory": "/home/saksham/codebase/learning_grpc/server/build",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/saksham/codebase/learning_grpc/server/build -isystem /home/saksham/grpc_install_dir/include  -o CMakeFiles/protolib.dir/proto/hello.grpc.pb.cc.o -c /home/saksham/codebase/learning_grpc/server/build/proto/hello.grpc.pb.cc",
+  "file": "/home/saksham/codebase/learning_grpc/server/build/proto/hello.grpc.pb.cc",
+  "output": "CMakeFiles/protolib.dir/proto/hello.grpc.pb.cc.o"
+},
+{
+  "directory": "/home/saksham/codebase/learning_grpc/server/build",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/saksham/codebase/learning_grpc/server/build -isystem /home/saksham/grpc_install_dir/include  -o CMakeFiles/server.dir/src/server.cc.o -c /home/saksham/codebase/learning_grpc/server/src/server.cc",
+  "file": "/home/saksham/codebase/learning_grpc/server/src/server.cc",
+  "output": "CMakeFiles/server.dir/src/server.cc.o"
+},
+{
+  "directory": "/home/saksham/codebase/learning_grpc/server/build",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/saksham/codebase/learning_grpc/server/build -isystem /home/saksham/grpc_install_dir/include  -o CMakeFiles/client.dir/src/client.cc.o -c /home/saksham/codebase/learning_grpc/server/src/client.cc",
+  "file": "/home/saksham/codebase/learning_grpc/server/src/client.cc",
+  "output": "CMakeFiles/client.dir/src/client.cc.o"
+}
+]

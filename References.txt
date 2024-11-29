@@ -1,0 +1,4 @@
+https://grpc.io/docs/languages/cpp/basics/
+https://github.com/grpc/grpc/blob/master/examples/cpp/helloworld/greeter_client.cc
+https://github.com/grpc/grpc/blob/master/examples/protos/helloworld.proto
+https://www.youtube.com/watch?v=1MuwAZJpqFk
